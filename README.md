@@ -1,4 +1,1 @@
-flask-archetype
-===============
-
-Flask Archetype Project
+Barebones Flask
